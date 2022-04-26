@@ -1,2 +1,2 @@
 # linked_list
-The LinkedList and Node classes provide link list functionality in ruby
+The LinkedList and Node classes provide linked list functionality in ruby
